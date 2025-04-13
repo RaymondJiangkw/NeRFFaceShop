@@ -1,0 +1,8 @@
+.ipynb_checkpoints
+checkpoints
+__pycache__
+data
+_eg3d
+_eg3d-rolled
+training-runs
+test
