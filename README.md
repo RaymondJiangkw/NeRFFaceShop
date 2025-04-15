@@ -5,7 +5,7 @@
 **NeRFFaceShop: Learning a Photo-realistic 3D-aware Generative Model of Animatable and Relightable Heads from Large-scale In-the-wild Videos**<br>
 Kaiwen Jiang, Feng-Lin Liu, Shu-Yu Chen, Pengfei Wan, Yuan Zhang, Yu-Kun Lai, Hongbo Fu, and Lin Gao<br>
 
-[**Paper**]()
+[**Paper**](https://doi.ieeecomputersociety.org/10.1109/TVCG.2025.3560869)
 
 Abstract: *Animatable and relightable 3D facial generation has fundamental applications in computer vision and graphics.
 Although animation and relighting are highly correlated, previous methods usually address them separately. Effectively combining animation methods and relighting methods is nontrivial. In terms of explicit shading models, animatable methods cannot be easily extended to achieve realistic relighting results, such as shadow effects, due to prohibitive computational training costs. Regarding implicit lighting representations, current animatable methods cannot be incorporated due to their inharmonious animation representations, i.e., deforming spatial points. This paper, armed
